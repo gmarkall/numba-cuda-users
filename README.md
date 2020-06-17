@@ -34,4 +34,6 @@ target. In no particular order.
   - A data model and API for genetic data with a CUDA LD-pruning implementation.
 * [EWR](https://github.com/morawatur/PyEWRecRepo) - a program for Exit Wavefunction
   Reconstruction in transmission electron microscope using the IWFR method.
-
+* [Datashader](https://github.com/holoviz/datashader) - a data rasterization
+  pipeline for automating the process of creating meaningful representations of
+  large amounts of data.
