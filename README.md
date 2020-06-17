@@ -25,6 +25,8 @@ target. In no particular order.
     GPU DataFrames.
   * [cuSignal](https://github.com/rapidsai/cusignal) - A signal processing
     library for the GPU.
+    * [CyberRadio](https://github.com/luigifreitas/CyberRadio) - An SDR Based
+      FM/AM Radio For Desktop. Accelerated with cuSignal and Numba. 
   * [RMM](https://github.com/rapidsai/rmm) - the RAPIDS Memory Manager provides
     a memory management plugin for Numba to use its GPU memory pool.
 * [GWAS Analysis Xarray Genetic Data
