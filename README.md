@@ -37,3 +37,5 @@ target. In no particular order.
 * [Datashader](https://github.com/holoviz/datashader) - a data rasterization
   pipeline for automating the process of creating meaningful representations of
   large amounts of data.
+* [PyExaFMM](https://github.com/exafmm/pyexafmm) - An adaptive particle
+  kernel-independent Fast Multipole Method (FMM).
