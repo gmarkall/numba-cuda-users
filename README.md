@@ -39,3 +39,5 @@ target. In no particular order.
   large amounts of data.
 * [PyExaFMM](https://github.com/exafmm/pyexafmm) - An adaptive particle
   kernel-independent Fast Multipole Method (FMM).
+* [cuSeries](https://github.com/NVIDIA/cuseries) - a CUDA-accelerated library
+  for the windowed alignment of time series implemented in Numba and Cupy.
