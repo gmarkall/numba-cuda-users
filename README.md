@@ -41,3 +41,5 @@ target. In no particular order.
   kernel-independent Fast Multipole Method (FMM).
 * [cuSeries](https://github.com/NVIDIA/cuseries) - a CUDA-accelerated library
   for the windowed alignment of time series implemented in Numba and Cupy.
+* [sgkit](https://pystatgen.github.io/sgkit/latest/) -  a statistical genetics
+  toolkit in Python.
