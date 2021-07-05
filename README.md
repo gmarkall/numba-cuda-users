@@ -43,3 +43,6 @@ target. In no particular order.
   for the windowed alignment of time series implemented in Numba and Cupy.
 * [sgkit](https://pystatgen.github.io/sgkit/latest/) -  a statistical genetics
   toolkit in Python.
+* [pystencils](https://pycodegen.pages.i10git.cs.fau.de/pystencils/index.html)
+  Generates fast stencil code for image processing, numerical simulation, or
+  any other task involving NumPy arrays.
