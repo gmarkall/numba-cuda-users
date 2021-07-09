@@ -46,3 +46,6 @@ target. In no particular order.
 * [pystencils](https://pycodegen.pages.i10git.cs.fau.de/pystencils/index.html)
   Generates fast stencil code for image processing, numerical simulation, or
   any other task involving NumPy arrays.
+* [larnd-sim](https://github.com/DUNE/larnd-sim) - This software aims to
+  simulate a pixelated Liquid Argon Time Projection Chamber. It consists of a
+  set of highly-parallelized algorithms implemented on the CUDA architecture.
