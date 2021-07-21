@@ -49,3 +49,5 @@ target. In no particular order.
 * [larnd-sim](https://github.com/DUNE/larnd-sim) - This software aims to
   simulate a pixelated Liquid Argon Time Projection Chamber. It consists of a
   set of highly-parallelized algorithms implemented on the CUDA architecture.
+* [Legate Pandas](https://github.com/nv-legate/legate.pandas) - a distributed
+  and accelerated drop-in replacement for Pandas that uses Numba for UDFs.
