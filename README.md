@@ -51,3 +51,6 @@ target. In no particular order.
   set of highly-parallelized algorithms implemented on the CUDA architecture.
 * [Legate Pandas](https://github.com/nv-legate/legate.pandas) - a distributed
   and accelerated drop-in replacement for Pandas that uses Numba for UDFs.
+* [Rapid IP Checker](https://github.com/Comcast/rapid-ip-checker) is a tool
+  that can be used to check whether a list of IP addresses is part of a large
+  list of network ranges
