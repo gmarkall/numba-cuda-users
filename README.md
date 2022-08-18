@@ -54,3 +54,7 @@ target. In no particular order.
 * [Rapid IP Checker](https://github.com/Comcast/rapid-ip-checker) is a tool
   that can be used to check whether a list of IP addresses is part of a large
   list of network ranges
+* [PyIID](https://github.com/CJ-Wright/pyIID) Python Infinite Improbabality
+  Drive is designed for the Monte Carlo modeling of nanomaterials using atomic
+  pair distributions functions, other experimental data, and ab-initiao
+  structural calculations.
