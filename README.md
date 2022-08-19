@@ -58,3 +58,6 @@ target. In no particular order.
   Drive is designed for the Monte Carlo modeling of nanomaterials using atomic
   pair distributions functions, other experimental data, and ab-initiao
   structural calculations.
+* [NVIDIA NeMo](https://github.com/NVIDIA/NeMo) is a conversational AI toolkit
+  built for researchers working on automatic speech recognition (ASR), natural
+  language processing (NLP), and text-to-speech synthesis (TTS).
