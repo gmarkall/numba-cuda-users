@@ -61,3 +61,7 @@ target. In no particular order.
 * [NVIDIA NeMo](https://github.com/NVIDIA/NeMo) is a conversational AI toolkit
   built for researchers working on automatic speech recognition (ASR), natural
   language processing (NLP), and text-to-speech synthesis (TTS).
+* [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) is an open source project
+  for LiDAR-based 3D object detection.
+* [Simba](https://github.com/r-aristov/simba-ps) is a fast and deterministic
+  all-Python Lennard-Jones particle simulator.
